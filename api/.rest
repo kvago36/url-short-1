@@ -1,0 +1,8 @@
+### 
+POST http://localhost:8000 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+
+url=https://rust-unofficial.github.io/too-many-lists/fourth-final.html
+
+###
+GET http://localhost:8000/aHR0cHM6Ly9ydXN0LXVub2ZmaWNpYWwuZ2l0aHViLmlvL3Rvby1tYW55LWxpc3RzL2ZvdXJ0aC1maW5hbC5odG1s HTTP/1.1
